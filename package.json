@@ -1,0 +1,9 @@
+{
+  "name": "hummingbird-h5-app",
+  "version": "1.0.0",
+  "description": "fbird cordova app",
+  "main": "www/index.html",
+  "repository": "git@gitlab.com:xueyan/hummingbird-h5-app.git",
+  "author": "luxueyan",
+  "license": "MIT"
+}
