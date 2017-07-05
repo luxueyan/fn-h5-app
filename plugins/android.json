@@ -11,5 +11,18 @@
             "PACKAGE_NAME": "org.apache.cordova.hummingBird"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.apache.cordova.hummingBird"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.apache.cordova.hummingBird"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "org.apache.cordova.hummingBird"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.apache.cordova.hummingBird"
+        }
+    }
 }
