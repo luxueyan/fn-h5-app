@@ -22,7 +22,7 @@
   "_resolved": "http://r.cnpmjs.org/cordova-plugin-compat/download/cordova-plugin-compat-1.1.0.tgz",
   "_shasum": "92bdf169feb61205323dcc96a3ff8348e37e87fc",
   "_spec": "cordova-plugin-compat@^1.0.0",
-  "_where": "/Users/luxueyan/mine/github/hummingbird-h5-app/node_modules",
+  "_where": "/Users/luxueyan/mine/github/fn-h5-app/node_modules",
   "author": {
     "name": "Apache Software Foundation"
   },

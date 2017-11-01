@@ -22,7 +22,7 @@
   "_resolved": "http://r.cnpmjs.org/cordova-plugin-file-transfer/download/cordova-plugin-file-transfer-1.6.3.tgz",
   "_shasum": "6c71de63b076cbec570eca664586ff9a51b8ac21",
   "_spec": "cordova-plugin-file-transfer",
-  "_where": "/Users/luxueyan/mine/github/hummingbird-h5-app/node_modules",
+  "_where": "/Users/luxueyan/mine/github/fn-h5-app/node_modules",
   "author": {
     "name": "Apache Software Foundation"
   },

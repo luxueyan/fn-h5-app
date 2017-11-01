@@ -22,7 +22,7 @@
   "_resolved": "http://r.cnpmjs.org/cordova-plugin-splashscreen/download/cordova-plugin-splashscreen-4.0.3.tgz",
   "_shasum": "773cd1363c1f3bacb9901663e9e3793dd3e0a19d",
   "_spec": "cordova-plugin-splashscreen@4.0.3",
-  "_where": "/Users/luxueyan/mine/github/hummingbird-h5-app/node_modules",
+  "_where": "/Users/luxueyan/mine/github/fn-h5-app/node_modules",
   "author": {
     "name": "Apache Software Foundation"
   },

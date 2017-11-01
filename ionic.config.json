@@ -1,5 +1,8 @@
 {
-  "name": "hummingbird-h5-app",
+  "name": "fn-h5-app",
   "app_id": "",
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }

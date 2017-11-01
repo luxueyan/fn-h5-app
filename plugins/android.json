@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "org.apache.cordova.hummingBird"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "org.apache.cordova.hummingBird"
         }
     },
     "dependent_plugins": {

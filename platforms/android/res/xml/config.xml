@@ -16,6 +16,10 @@
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="StatusBar">
+        <param name="android-package" value="org.apache.cordova.statusbar.StatusBar" />
+        <param name="onload" value="true" />
+    </feature>
     <name>极速蜂鸟</name>
     <description>
     我们联合多家借贷平台，将为您提供一站式借款咨询服务，感谢您的关注使用.
@@ -57,4 +61,8 @@
     <preference name="SplashScreen" value="screen" />
     <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="SplashScreenDelay" value="3000" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#1c1c1f" />
+    <preference name="StatusBarStyle" value="blackopaque" />
+    <preference name="SplashShowOnlyFirstTime" value="false" />
 </widget>
